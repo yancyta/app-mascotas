@@ -1,0 +1,9 @@
+// MongoDB Playground
+// Select the database to use.
+use('datamascotas');
+
+db.usuarios.find();
+
+
+
+

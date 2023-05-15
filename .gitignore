@@ -1,0 +1,17 @@
+
+
+
+node_modules/
+
+
+uploads/usuarios/**.jpg
+uploads/usuarios/**.png
+uploads/usuarios/**.gif
+
+uploads/veterinarias/**.jpg
+uploads/veterinarias/**.png
+uploads/veterinarias/**.gif
+
+uploads/veterinarios/**.jpg
+uploads/veterinarios/**.png
+uploads/veterinarios/**.gif
